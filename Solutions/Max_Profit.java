@@ -1,6 +1,8 @@
 /*
  * link to the problem:
  * http://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/
+
+O(n) approach: dynamic approach would take O(n^2) time.
  * 
  * 
  */
